@@ -15,4 +15,3 @@
 9. **Enjoy your spam!**
 
 -----------------------------------------------------------------------------------
-**NB**: ***Sorry for the obfuscation, but i dont want to drop the source code, for now.***
