@@ -12,4 +12,4 @@
 8. Once you have set up the webhook and the message to be spammed, you need to start the **```start.bat```**
 9. **Enjoy your spam!**
 
-*Sorry for the obfuscation, but i dont want to drop the source code, for now.*
+***Sorry for the obfuscation, but i dont want to drop the source code, for now.***
