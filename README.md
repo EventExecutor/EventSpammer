@@ -11,3 +11,5 @@
 7. I recomend you to say **```n```** when it ask you **```"Do you want to use a SOCKS proxy?"```**, because you don't have a proxy file or a single proxy.
 8. Once you have set up the webhook and the message to be spammed, you need to start the **```start.bat```**
 9. **Enjoy your spam!**
+
+*Sorry for the obfuscation, but i dont want to drop the source code, for now.*
