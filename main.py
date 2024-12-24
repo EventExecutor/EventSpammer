@@ -42,7 +42,7 @@ def main():
     print(Fore.CYAN + "Inizio invio messaggi..." + Style.RESET_ALL)
     while True:
         send_message(webhook_url, message)
-        time.sleep(1)  # Imposta un delay di 1 secondo per evitare spam eccessivo
+        time.sleep(1)  # Set a delay of 1 second to avoid excessive spam
 
 if __name__ == "__main__":
     main()
